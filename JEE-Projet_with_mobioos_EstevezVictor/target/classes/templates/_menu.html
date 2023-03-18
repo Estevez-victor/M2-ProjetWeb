@@ -1,0 +1,15 @@
+<div xmlns:th="http://www.thymeleaf.org" style="border: 1px solid #ccc;padding:5px;margin-bottom:20px;">
+
+    <p th:if="${#httpServletRequest.remoteUser != null}" th:inline="text">User: [ [[${#httpServletRequest.remoteUser}]]
+        ]</p>
+
+    <a th:href="@{/sante}">Home</a>
+    | &nbsp;
+    <a th:href="@{/sante/mesInfo}">Mes Info</a>
+    | &nbsp;
+    <a th:href="@{/sante/lp}">Liste de professionnels</a>
+    | &nbsp;
+    <a th:if="${#request.userPrincipal != null}" th:href="@{/logout}">Logout</a>
+
+
+</div>

@@ -1,0 +1,15 @@
+spring/devrep/sante/repository/RDVInsertRepository.class
+spring/devrep/sante/conf/JPAUserDetailsService.class
+spring/devrep/sante/entities/Dispo.class
+spring/devrep/sante/repository/ProRepository.class
+spring/devrep/sante/repository/DispoRepository.class
+spring/devrep/sante/SanteApplication.class
+spring/devrep/sante/repository/DispoInsertRepository.class
+spring/devrep/sante/entities/ProDetails.class
+spring/devrep/sante/entities/Person.class
+spring/devrep/sante/control/SanteController.class
+spring/devrep/sante/entities/Pro.class
+spring/devrep/sante/repository/PersonInsertRepository.class
+spring/devrep/sante/conf/AppSecurityConfiguration.class
+spring/devrep/sante/entities/RDV.class
+spring/devrep/sante/repository/RDVRepository.class

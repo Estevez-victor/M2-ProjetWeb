@@ -1,0 +1,762 @@
+{
+    "deletionPropagations": [
+        {
+            "file": "src/main/resources/templates/changeinfoPro.html",
+            "propagations": [
+                {
+                    "featureKey": "ef395724-a122-46a7-a2cb-f5653a8d5db7",
+                    "ranges": [
+                        {
+                            "propagationId": "dcc0488c-65da-497b-8b69-40fa5d0950cf",
+                            "sourceId": "fe8cdd2e-4f0f-4f24-be2d-52533db8f438",
+                            "startLine": 0,
+                            "startColumn": 0,
+                            "endLine": 50,
+                            "endColumn": 7,
+                            "isValidated": true,
+                            "isFromMarker": false
+                        }
+                    ]
+                },
+                {
+                    "featureKey": "69d0a5bb-21b1-4d4d-820f-ee569d2f4332",
+                    "ranges": [
+                        {
+                            "propagationId": "fa7e9ea9-8095-4d56-8f55-0dda940bd59e",
+                            "sourceId": "fa7e9ea9-8095-4d56-8f55-0dda940bd59e",
+                            "startLine": 27,
+                            "startColumn": 21,
+                            "endLine": 27,
+                            "endColumn": 52,
+                            "isValidated": true,
+                            "isFromMarker": true
+                        }
+                    ]
+                },
+                {
+                    "featureKey": "5ec05e61-b10c-4bde-a116-070a0b93a2b5",
+                    "ranges": [
+                        {
+                            "propagationId": "4f78d18f-3700-47d4-9439-4d80a6d0ff49",
+                            "sourceId": "4f78d18f-3700-47d4-9439-4d80a6d0ff49",
+                            "startLine": 28,
+                            "startColumn": 18,
+                            "endLine": 28,
+                            "endColumn": 50,
+                            "isValidated": true,
+                            "isFromMarker": true
+                        }
+                    ]
+                },
+                {
+                    "featureKey": "95b905a6-3d7b-437d-9d6c-2229f2c0edca",
+                    "ranges": [
+                        {
+                            "propagationId": "505a5557-f74e-4b36-b088-52ddbd7d7d4d",
+                            "sourceId": "505a5557-f74e-4b36-b088-52ddbd7d7d4d",
+                            "startLine": 26,
+                            "startColumn": 0,
+                            "endLine": 26,
+                            "endColumn": 60,
+                            "isValidated": true,
+                            "isFromMarker": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/main/resources/templates/gestrdv.html",
+            "propagations": [
+                {
+                    "featureKey": "a9c85b0d-6f66-47f5-b59a-962ba5db96a0",
+                    "ranges": [
+                        {
+                            "propagationId": "ead6895c-c7d3-4581-bf94-34102f9a48cf",
+                            "sourceId": "eb704e13-9f3f-4d5e-9c62-6dc05a851175",
+                            "startLine": 0,
+                            "startColumn": 0,
+                            "endLine": 53,
+                            "endColumn": 7,
+                            "isValidated": true,
+                            "isFromMarker": false
+                        }
+                    ]
+                },
+                {
+                    "featureKey": "42d9ccdd-b51b-4267-89ef-3b1867e87d6a",
+                    "ranges": [
+                        {
+                            "propagationId": "f973d1ba-c2de-43c3-80d9-5838ca04e2fa",
+                            "sourceId": "f973d1ba-c2de-43c3-80d9-5838ca04e2fa",
+                            "startLine": 32,
+                            "startColumn": 0,
+                            "endLine": 38,
+                            "endColumn": 33,
+                            "isValidated": true,
+                            "isFromMarker": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/main/java/spring/devrep/sante/control/SanteController.java",
+            "propagations": [
+                {
+                    "featureKey": "a9c85b0d-6f66-47f5-b59a-962ba5db96a0",
+                    "ranges": [
+                        {
+                            "propagationId": "5d5a50c8-3e2e-4a4f-9ccb-687a54a97979",
+                            "sourceId": "5d5a50c8-3e2e-4a4f-9ccb-687a54a97979",
+                            "startLine": 160,
+                            "startColumn": 0,
+                            "endLine": 198,
+                            "endColumn": 5,
+                            "isValidated": true,
+                            "isFromMarker": true
+                        },
+                        {
+                            "propagationId": "5f373c43-cef7-4baa-b679-1a748688e972",
+                            "sourceId": "5f373c43-cef7-4baa-b679-1a748688e972",
+                            "startLine": 209,
+                            "startColumn": 0,
+                            "endLine": 215,
+                            "endColumn": 5,
+                            "isValidated": true,
+                            "isFromMarker": true
+                        },
+                        {
+                            "propagationId": "b74911a2-718b-4f73-9a75-a896d1f117cf",
+                            "sourceId": "b74911a2-718b-4f73-9a75-a896d1f117cf",
+                            "startLine": 226,
+                            "startColumn": 1,
+                            "endLine": 243,
+                            "endColumn": 5,
+                            "isValidated": true,
+                            "isFromMarker": true
+                        }
+                    ]
+                },
+                {
+                    "featureKey": "0a940ae8-4cfa-40ca-8b1d-1cd3ec20b740",
+                    "ranges": [
+                        {
+                            "propagationId": "561298f9-e019-450e-9d19-046537dc6706",
+                            "sourceId": "561298f9-e019-450e-9d19-046537dc6706",
+                            "startLine": 87,
+                            "startColumn": 0,
+                            "endLine": 90,
+                            "endColumn": 5,
+                            "isValidated": true,
+                            "isFromMarker": true
+                        },
+                        {
+                            "propagationId": "9a5e6648-27e6-4e1e-9ebe-1bc49ac1a09a",
+                            "sourceId": "9a5e6648-27e6-4e1e-9ebe-1bc49ac1a09a",
+                            "startLine": 113,
+                            "startColumn": 0,
+                            "endLine": 127,
+                            "endColumn": 5,
+                            "isValidated": true,
+                            "isFromMarker": true
+                        }
+                    ]
+                },
+                {
+                    "featureKey": "5a41e47c-9b46-46b8-bfbd-4d0234578507",
+                    "ranges": [
+                        {
+                            "propagationId": "52c9be2d-51ae-4f1e-ba47-df8d4f801dd5",
+                            "sourceId": "52c9be2d-51ae-4f1e-ba47-df8d4f801dd5",
+                            "startLine": 92,
+                            "startColumn": 0,
+                            "endLine": 95,
+                            "endColumn": 5,
+                            "isValidated": true,
+                            "isFromMarker": true
+                        },
+                        {
+                            "propagationId": "1fd91e97-a6a3-4ae6-b499-74515a290577",
+                            "sourceId": "1fd91e97-a6a3-4ae6-b499-74515a290577",
+                            "startLine": 97,
+                            "startColumn": 1,
+                            "endLine": 111,
+                            "endColumn": 5,
+                            "isValidated": true,
+                            "isFromMarker": true
+                        }
+                    ]
+                },
+                {
+                    "featureKey": "ef395724-a122-46a7-a2cb-f5653a8d5db7",
+                    "ranges": [
+                        {
+                            "propagationId": "4ec40772-88e5-4ffc-a98f-fe36aef10afc",
+                            "sourceId": "4ec40772-88e5-4ffc-a98f-fe36aef10afc",
+                            "startLine": 51,
+                            "startColumn": 0,
+                            "endLine": 59,
+                            "endColumn": 5,
+                            "isValidated": true,
+                            "isFromMarker": true
+                        },
+                        {
+                            "propagationId": "6d9c20e6-b978-4f15-8304-81932097742a",
+                            "sourceId": "6d9c20e6-b978-4f15-8304-81932097742a",
+                            "startLine": 245,
+                            "startColumn": 0,
+                            "endLine": 305,
+                            "endColumn": 5,
+                            "isValidated": true,
+                            "isFromMarker": true
+                        },
+                        {
+                            "propagationId": "383dffa2-e478-43b3-8db5-5bce37c0279c",
+                            "sourceId": "383dffa2-e478-43b3-8db5-5bce37c0279c",
+                            "startLine": 129,
+                            "startColumn": 0,
+                            "endLine": 158,
+                            "endColumn": 5,
+                            "isValidated": true,
+                            "isFromMarker": true
+                        }
+                    ]
+                },
+                {
+                    "featureKey": "105e8a9c-dac9-4fd8-b968-61a04601f8e9",
+                    "ranges": [
+                        {
+                            "propagationId": "6e155b79-6d8c-4962-86ff-b11a111b123f",
+                            "sourceId": "6e155b79-6d8c-4962-86ff-b11a111b123f",
+                            "startLine": 217,
+                            "startColumn": 0,
+                            "endLine": 224,
+                            "endColumn": 5,
+                            "isValidated": true,
+                            "isFromMarker": true
+                        }
+                    ]
+                },
+                {
+                    "featureKey": "42d9ccdd-b51b-4267-89ef-3b1867e87d6a",
+                    "ranges": [
+                        {
+                            "propagationId": "5eb936b0-e3c4-4487-9155-b3875fda8d01",
+                            "sourceId": "5eb936b0-e3c4-4487-9155-b3875fda8d01",
+                            "startLine": 200,
+                            "startColumn": 0,
+                            "endLine": 207,
+                            "endColumn": 5,
+                            "isValidated": true,
+                            "isFromMarker": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/main/resources/templates/gestrdvVisitor.html",
+            "propagations": [
+                {
+                    "featureKey": "a9c85b0d-6f66-47f5-b59a-962ba5db96a0",
+                    "ranges": [
+                        {
+                            "propagationId": "a2ca8ddd-1bcd-4346-bdc7-29eb647b629d",
+                            "sourceId": "a6df4934-5845-49de-bbce-a8da6f646ac1",
+                            "startLine": 0,
+                            "startColumn": 0,
+                            "endLine": 61,
+                            "endColumn": 7,
+                            "isValidated": true,
+                            "isFromMarker": false
+                        }
+                    ]
+                },
+                {
+                    "featureKey": "105e8a9c-dac9-4fd8-b968-61a04601f8e9",
+                    "ranges": [
+                        {
+                            "propagationId": "7dc2e2c5-4616-4659-987d-aca440343840",
+                            "sourceId": "7dc2e2c5-4616-4659-987d-aca440343840",
+                            "startLine": 31,
+                            "startColumn": 16,
+                            "endLine": 36,
+                            "endColumn": 33,
+                            "isValidated": true,
+                            "isFromMarker": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/main/resources/templates/takerdv.html",
+            "propagations": [
+                {
+                    "featureKey": "a9c85b0d-6f66-47f5-b59a-962ba5db96a0",
+                    "ranges": [
+                        {
+                            "propagationId": "c5842a97-ea17-4ea4-9854-14f53af66e22",
+                            "sourceId": "3ce41d0a-5e62-4641-9845-c98b36ff1e9d",
+                            "startLine": 0,
+                            "startColumn": 0,
+                            "endLine": 59,
+                            "endColumn": 7,
+                            "isValidated": true,
+                            "isFromMarker": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/main/resources/templates/visitors.html",
+            "propagations": [
+                {
+                    "featureKey": "56c3f028-b24e-476a-ba1e-d4f94c468626",
+                    "ranges": [
+                        {
+                            "propagationId": "ae92d1a1-b531-4a75-b51b-5e0ad0d0db55",
+                            "sourceId": "ae92d1a1-b531-4a75-b51b-5e0ad0d0db55",
+                            "startLine": 61,
+                            "startColumn": 10,
+                            "endLine": 61,
+                            "endColumn": 18,
+                            "isValidated": true,
+                            "isFromMarker": true
+                        },
+                        {
+                            "propagationId": "83b467e2-e46a-44d1-ab3a-cc605f247e38",
+                            "sourceId": "83b467e2-e46a-44d1-ab3a-cc605f247e38",
+                            "startLine": 14,
+                            "startColumn": 2,
+                            "endLine": 20,
+                            "endColumn": 23,
+                            "isValidated": true,
+                            "isFromMarker": true
+                        }
+                    ]
+                },
+                {
+                    "featureKey": "5f42b470-1929-407a-a9ac-f82ade87148b",
+                    "ranges": [
+                        {
+                            "propagationId": "a9d43907-3fcb-48ac-9c7c-7f82a4098e32",
+                            "sourceId": "a9d43907-3fcb-48ac-9c7c-7f82a4098e32",
+                            "startLine": 21,
+                            "startColumn": 0,
+                            "endLine": 26,
+                            "endColumn": 23,
+                            "isValidated": true,
+                            "isFromMarker": true
+                        }
+                    ]
+                },
+                {
+                    "featureKey": "a9c85b0d-6f66-47f5-b59a-962ba5db96a0",
+                    "ranges": [
+                        {
+                            "propagationId": "8c9fe3c1-6e6b-4493-bb0c-37c5f14f9e09",
+                            "sourceId": "8c9fe3c1-6e6b-4493-bb0c-37c5f14f9e09",
+                            "startLine": 45,
+                            "startColumn": 20,
+                            "endLine": 51,
+                            "endColumn": 33,
+                            "isValidated": true,
+                            "isFromMarker": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/main/resources/templates/gestdispo.html",
+            "propagations": [
+                {
+                    "featureKey": "a9c85b0d-6f66-47f5-b59a-962ba5db96a0",
+                    "ranges": [
+                        {
+                            "propagationId": "8c248912-4eac-4759-9a52-d6000ae48b42",
+                            "sourceId": "8195a077-f17f-42af-a472-b317ce758c0e",
+                            "startLine": 0,
+                            "startColumn": 0,
+                            "endLine": 67,
+                            "endColumn": 7,
+                            "isValidated": true,
+                            "isFromMarker": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/main/resources/templates/mesInfoPro.html",
+            "propagations": [
+                {
+                    "featureKey": "ef395724-a122-46a7-a2cb-f5653a8d5db7",
+                    "ranges": [
+                        {
+                            "propagationId": "b076ca10-2b3c-48b4-a462-55c379a284fb",
+                            "sourceId": "963dcd50-ec67-4be2-a114-1cfa28ec0d9d",
+                            "startLine": 0,
+                            "startColumn": 0,
+                            "endLine": 26,
+                            "endColumn": 7,
+                            "isValidated": true,
+                            "isFromMarker": false
+                        }
+                    ]
+                },
+                {
+                    "featureKey": "a9c85b0d-6f66-47f5-b59a-962ba5db96a0",
+                    "ranges": [
+                        {
+                            "propagationId": "deabeb3e-bbc0-4a20-a360-2e55198e0476",
+                            "sourceId": "deabeb3e-bbc0-4a20-a360-2e55198e0476",
+                            "startLine": 9,
+                            "startColumn": 0,
+                            "endLine": 14,
+                            "endColumn": 11,
+                            "isValidated": true,
+                            "isFromMarker": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/main/resources/templates/mesInfoVisitor.html",
+            "propagations": [
+                {
+                    "featureKey": "ef395724-a122-46a7-a2cb-f5653a8d5db7",
+                    "ranges": [
+                        {
+                            "propagationId": "ed111cf0-8165-4609-9638-1eecafa31aa2",
+                            "sourceId": "152cf404-ab12-40f1-9b9e-0e372af39a4a",
+                            "startLine": 0,
+                            "startColumn": 0,
+                            "endLine": 22,
+                            "endColumn": 7,
+                            "isValidated": true,
+                            "isFromMarker": false
+                        }
+                    ]
+                },
+                {
+                    "featureKey": "a9c85b0d-6f66-47f5-b59a-962ba5db96a0",
+                    "ranges": [
+                        {
+                            "propagationId": "2d2db4a6-419f-4e08-b661-424ea22f423b",
+                            "sourceId": "2d2db4a6-419f-4e08-b661-424ea22f423b",
+                            "startLine": 10,
+                            "startColumn": 0,
+                            "endLine": 12,
+                            "endColumn": 11,
+                            "isValidated": true,
+                            "isFromMarker": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/main/resources/templates/home.html",
+            "propagations": [
+                {
+                    "featureKey": "ef395724-a122-46a7-a2cb-f5653a8d5db7",
+                    "ranges": [
+                        {
+                            "propagationId": "6bc1f5bd-e8e6-47d0-9f72-b2fc68339760",
+                            "sourceId": "6bc1f5bd-e8e6-47d0-9f72-b2fc68339760",
+                            "startLine": 9,
+                            "startColumn": 31,
+                            "endLine": 26,
+                            "endColumn": 10,
+                            "isValidated": true,
+                            "isFromMarker": true
+                        }
+                    ]
+                },
+                {
+                    "featureKey": "5a41e47c-9b46-46b8-bfbd-4d0234578507",
+                    "ranges": [
+                        {
+                            "propagationId": "81023e71-b1fe-40e3-a132-bfc8c9fa582a",
+                            "sourceId": "81023e71-b1fe-40e3-a132-bfc8c9fa582a",
+                            "startLine": 22,
+                            "startColumn": 0,
+                            "endLine": 26,
+                            "endColumn": 10,
+                            "isValidated": true,
+                            "isFromMarker": true
+                        }
+                    ]
+                },
+                {
+                    "featureKey": "0a940ae8-4cfa-40ca-8b1d-1cd3ec20b740",
+                    "ranges": [
+                        {
+                            "propagationId": "c3a8694a-d90e-439c-bbd3-801c5cb2992f",
+                            "sourceId": "c3a8694a-d90e-439c-bbd3-801c5cb2992f",
+                            "startLine": 16,
+                            "startColumn": 0,
+                            "endLine": 20,
+                            "endColumn": 10,
+                            "isValidated": true,
+                            "isFromMarker": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/main/resources/templates/pros.html",
+            "propagations": [
+                {
+                    "featureKey": "56c3f028-b24e-476a-ba1e-d4f94c468626",
+                    "ranges": [
+                        {
+                            "propagationId": "d38830cc-3964-4963-a94d-3fdf581100bf",
+                            "sourceId": "d38830cc-3964-4963-a94d-3fdf581100bf",
+                            "startLine": 62,
+                            "startColumn": 11,
+                            "endLine": 62,
+                            "endColumn": 18,
+                            "isValidated": true,
+                            "isFromMarker": true
+                        },
+                        {
+                            "propagationId": "37d857ad-fe14-466d-9a2b-57fbd943962c",
+                            "sourceId": "37d857ad-fe14-466d-9a2b-57fbd943962c",
+                            "startLine": 14,
+                            "startColumn": 1,
+                            "endLine": 20,
+                            "endColumn": 23,
+                            "isValidated": true,
+                            "isFromMarker": true
+                        }
+                    ]
+                },
+                {
+                    "featureKey": "5f42b470-1929-407a-a9ac-f82ade87148b",
+                    "ranges": [
+                        {
+                            "propagationId": "988e5eec-56db-4d11-b997-e4bdf5d40548",
+                            "sourceId": "988e5eec-56db-4d11-b997-e4bdf5d40548",
+                            "startLine": 21,
+                            "startColumn": 0,
+                            "endLine": 26,
+                            "endColumn": 23,
+                            "isValidated": true,
+                            "isFromMarker": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/main/resources/templates/login.html",
+            "propagations": [
+                {
+                    "featureKey": "ef395724-a122-46a7-a2cb-f5653a8d5db7",
+                    "ranges": [
+                        {
+                            "propagationId": "a14eb29a-0aff-47d4-a3a6-bce498e8517f",
+                            "sourceId": "51f1a0fd-7ace-4407-8d12-bfbb1c633d3e",
+                            "startLine": 0,
+                            "startColumn": 0,
+                            "endLine": 20,
+                            "endColumn": 7,
+                            "isValidated": true,
+                            "isFromMarker": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/main/resources/templates/entry2.html",
+            "propagations": [
+                {
+                    "featureKey": "0a940ae8-4cfa-40ca-8b1d-1cd3ec20b740",
+                    "ranges": [
+                        {
+                            "propagationId": "c1a71762-3f8f-4c1a-8615-a77de85e292c",
+                            "sourceId": "749cc7c3-ef67-46bf-9ae8-bc63f8b21bdf",
+                            "startLine": 0,
+                            "startColumn": 0,
+                            "endLine": 41,
+                            "endColumn": 7,
+                            "isValidated": true,
+                            "isFromMarker": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/main/resources/templates/entry.html",
+            "propagations": [
+                {
+                    "featureKey": "5a41e47c-9b46-46b8-bfbd-4d0234578507",
+                    "ranges": [
+                        {
+                            "propagationId": "968589c7-c640-45bf-93ef-0456315ce010",
+                            "sourceId": "2dc39f06-7cad-4065-9edc-da8af60ba0f7",
+                            "startLine": 0,
+                            "startColumn": 0,
+                            "endLine": 41,
+                            "endColumn": 7,
+                            "isValidated": true,
+                            "isFromMarker": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/main/resources/templates/changeinfoVisitor.html",
+            "propagations": [
+                {
+                    "featureKey": "ef395724-a122-46a7-a2cb-f5653a8d5db7",
+                    "ranges": [
+                        {
+                            "propagationId": "db26e029-b269-4197-8513-c2f8a0d80402",
+                            "sourceId": "a00e4f8f-5ea6-43de-b376-60e1e8e19c21",
+                            "startLine": 0,
+                            "startColumn": 0,
+                            "endLine": 35,
+                            "endColumn": 7,
+                            "isValidated": true,
+                            "isFromMarker": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "file": "src/main/resources/templates/_menu.html",
+            "propagations": [
+                {
+                    "featureKey": "ef395724-a122-46a7-a2cb-f5653a8d5db7",
+                    "ranges": [
+                        {
+                            "propagationId": "402455db-3b64-40a0-b6f0-799abd11a86a",
+                            "sourceId": "402455db-3b64-40a0-b6f0-799abd11a86a",
+                            "startLine": 7,
+                            "startColumn": 0,
+                            "endLine": 8,
+                            "endColumn": 12,
+                            "isValidated": true,
+                            "isFromMarker": true
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "replacementPropagations": [],
+    "resourcePropagations": [],
+    "pathPropagations": [
+        {
+            "propagationId": "a6df4934-5845-49de-bbce-a8da6f646ac1",
+            "sourceId": "a6df4934-5845-49de-bbce-a8da6f646ac1",
+            "propagatedPath": "src/main/resources/templates/gestrdvVisitor.html",
+            "featureKey": "a9c85b0d-6f66-47f5-b59a-962ba5db96a0",
+            "isValidated": true,
+            "isFromMarker": true,
+            "contentAnalysis": true
+        },
+        {
+            "propagationId": "eb704e13-9f3f-4d5e-9c62-6dc05a851175",
+            "sourceId": "eb704e13-9f3f-4d5e-9c62-6dc05a851175",
+            "propagatedPath": "src/main/resources/templates/gestrdv.html",
+            "featureKey": "a9c85b0d-6f66-47f5-b59a-962ba5db96a0",
+            "isValidated": true,
+            "isFromMarker": true,
+            "contentAnalysis": true
+        },
+        {
+            "propagationId": "3ce41d0a-5e62-4641-9845-c98b36ff1e9d",
+            "sourceId": "3ce41d0a-5e62-4641-9845-c98b36ff1e9d",
+            "propagatedPath": "src/main/resources/templates/takerdv.html",
+            "featureKey": "a9c85b0d-6f66-47f5-b59a-962ba5db96a0",
+            "isValidated": true,
+            "isFromMarker": true,
+            "contentAnalysis": true
+        },
+        {
+            "propagationId": "8195a077-f17f-42af-a472-b317ce758c0e",
+            "sourceId": "8195a077-f17f-42af-a472-b317ce758c0e",
+            "propagatedPath": "src/main/resources/templates/gestdispo.html",
+            "featureKey": "a9c85b0d-6f66-47f5-b59a-962ba5db96a0",
+            "isValidated": true,
+            "isFromMarker": true,
+            "contentAnalysis": true
+        },
+        {
+            "propagationId": "152cf404-ab12-40f1-9b9e-0e372af39a4a",
+            "sourceId": "152cf404-ab12-40f1-9b9e-0e372af39a4a",
+            "propagatedPath": "src/main/resources/templates/mesInfoVisitor.html",
+            "featureKey": "ef395724-a122-46a7-a2cb-f5653a8d5db7",
+            "isValidated": true,
+            "isFromMarker": true,
+            "contentAnalysis": true
+        },
+        {
+            "propagationId": "963dcd50-ec67-4be2-a114-1cfa28ec0d9d",
+            "sourceId": "963dcd50-ec67-4be2-a114-1cfa28ec0d9d",
+            "propagatedPath": "src/main/resources/templates/mesInfoPro.html",
+            "featureKey": "ef395724-a122-46a7-a2cb-f5653a8d5db7",
+            "isValidated": true,
+            "isFromMarker": true,
+            "contentAnalysis": true
+        },
+        {
+            "propagationId": "51f1a0fd-7ace-4407-8d12-bfbb1c633d3e",
+            "sourceId": "51f1a0fd-7ace-4407-8d12-bfbb1c633d3e",
+            "propagatedPath": "src/main/resources/templates/login.html",
+            "featureKey": "ef395724-a122-46a7-a2cb-f5653a8d5db7",
+            "isValidated": true,
+            "isFromMarker": true,
+            "contentAnalysis": true
+        },
+        {
+            "propagationId": "749cc7c3-ef67-46bf-9ae8-bc63f8b21bdf",
+            "sourceId": "749cc7c3-ef67-46bf-9ae8-bc63f8b21bdf",
+            "propagatedPath": "src/main/resources/templates/entry2.html",
+            "featureKey": "0a940ae8-4cfa-40ca-8b1d-1cd3ec20b740",
+            "isValidated": true,
+            "isFromMarker": true,
+            "contentAnalysis": true
+        },
+        {
+            "propagationId": "2dc39f06-7cad-4065-9edc-da8af60ba0f7",
+            "sourceId": "2dc39f06-7cad-4065-9edc-da8af60ba0f7",
+            "propagatedPath": "src/main/resources/templates/entry.html",
+            "featureKey": "5a41e47c-9b46-46b8-bfbd-4d0234578507",
+            "isValidated": true,
+            "isFromMarker": true,
+            "contentAnalysis": true
+        },
+        {
+            "propagationId": "a00e4f8f-5ea6-43de-b376-60e1e8e19c21",
+            "sourceId": "a00e4f8f-5ea6-43de-b376-60e1e8e19c21",
+            "propagatedPath": "src/main/resources/templates/changeinfoVisitor.html",
+            "featureKey": "ef395724-a122-46a7-a2cb-f5653a8d5db7",
+            "isValidated": true,
+            "isFromMarker": true,
+            "contentAnalysis": true
+        },
+        {
+            "propagationId": "fe8cdd2e-4f0f-4f24-be2d-52533db8f438",
+            "sourceId": "fe8cdd2e-4f0f-4f24-be2d-52533db8f438",
+            "propagatedPath": "src/main/resources/templates/changeinfoPro.html",
+            "featureKey": "ef395724-a122-46a7-a2cb-f5653a8d5db7",
+            "isValidated": true,
+            "isFromMarker": true,
+            "contentAnalysis": true
+        }
+    ]
+}

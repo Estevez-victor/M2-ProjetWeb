@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/css/bootstrap.min.css"
+        integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
+</head>
+
+
+<body>
+    <th:block th:include="/_menu"></th:block>
+    <div class="container mt-2">
+        <div class="card">
+            <div class="card-header">s'inscrire:</div>
+            <div class="card-body">
+                <form method="get" th:action="@{newpro}">
+                    <label>nom</label>
+                    <input type="text" placeholder="Nom" name="nom" th:value="${nom}">
+                    <label>prenom</label>
+                    <input type="text" placeholder="Prenom" name="prenom" th:value="${prenom}">
+                    <br>
+                    <label>mail</label>
+                    <input type="text" placeholder="Adresse Mail" name="mail" th:value="${mail}">
+                    <label>mot de passe</label>
+                    <input type="text" placeholder="Mot de passe" name="mdp" th:value="${mdp}">
+                    <button type="submit" class="btn btn-primary">S'inscrire</button>
+
+                    <div th:if="${mailInUse}!= null">
+                        Cette adresse Mail est deja utilisé.
+                    </div>
+                </form>
+                <ul class="nav nav-pills">
+                </ul>
+            </div>
+        </div>
+    </div>
+
+</body>
+
+</html>

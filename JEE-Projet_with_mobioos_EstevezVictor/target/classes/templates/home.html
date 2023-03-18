@@ -1,0 +1,30 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+   <title th:utext="${title}"></title>
+</head>
+
+<body>
+   <th:block th:include="/_menu"></th:block>
+   <h2>Bienvenue sur Sante</h2>
+   <form th:if="${#request.userPrincipal == null}" method="get" th:action="@{login}">
+      <button type="submit" class="btn btn-primary">Je me connecte</button>
+   </form>
+   <br>
+   <br>
+   <br>
+   <form th:if="${#request.userPrincipal == null}" method="get" th:action="@{sante/addvisitor}">
+      <label>Vous inscrire en temps que patient:</label>
+      <br>
+      <button type="submit" class="btn btn-primary">Creer un compte patient</button>
+   </form>
+   <br>
+   <form th:if="${#request.userPrincipal == null}" method="get" th:action="@{sante/addpro}">
+      <label>Vous inscrire en temps que profesionnel:</label>
+      <br>
+      <button type="submit" class="btn btn-primary">Creer un compte profesionnel</button>
+   </form>
+</body>
+
+</html>

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/css/bootstrap.min.css"
+        integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
+</head>
+
+
+<body>
+    <th:block th:include="/_menu"></th:block>
+    <div class="container mt-2">
+        <div class="card">
+            <div class="card-header">Changer mes infos:</div>
+            <div class="card-body">
+                <form method="get" th:action="@{changeinfoPro}">
+                    <label>nom </label>
+                    <input type="text" placeholder="nom" name="nom" th:value="${nom}"> [ [[${pro.nom}]] ]
+                    <br>
+                    <label>prenom</label>
+                    <input type="text" placeholder="prenom" name="prenom" th:value="${prenom}">[ [[${pro.prenom}]] ]
+                    <br>
+                    <label>metier</label>
+                    <select name ="metier" id="metier" placeholder="metier" th:value="${metier}">
+                        <option>Médecin spécialiste</option>
+                        <option>Généraliste</option>
+                        <option>Infirmier</option>
+                    </select>[ [[${pro.metier}]] ]
+                    <br>
+                    <label>adresse</label>
+                    <input type="text" placeholder="adresse" name="adresse" th:value="${adresse}">[ [[${pro.adresse}]] ]
+                    <br>
+                    <label>horaire</label>
+                    <input type="text" placeholder="horaire" name="horaire" th:value="${horaire}">[ [[${pro.horaire}]] ]
+                    <br>
+                    <label>tel</label>
+                    <input type="text" placeholder="tel" name="tel" th:value="${tel}">[ [[${pro.tel}]] ]
+                    <br>
+                    <button type="submit" class="btn btn-primary">Mettre à jour</button>
+                </form>
+                <ul class="nav nav-pills">
+                </ul>
+            </div>
+        </div>
+    </div>
+
+</body>
+
+</html>
